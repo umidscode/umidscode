@@ -1,7 +1,7 @@
 ## Hi there 👋, I'm Umid! 
 # I'm a Fullstack Developer
 ---
-+ 🦾 *I like to write code*
++ 🦾 *I like to write cleanly code*
 + 🎉 *I love to play Football and Fishing*
 + 📚 *Currently, I'm learning Fullstack development and studying at Qwasar.io*
 ___
